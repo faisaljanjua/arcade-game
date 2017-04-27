@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+.container{
+    display: hidden;
+    flex-wrap: wrap;
+    width: 905px;
+    margin:0 auto;
+}
+.container > div{
+    flex-grow: 1;
+}
+.container > div.elem{
+    width: 200px;
+    background: red;
+}
+.container > div#can{
+    width: 505px;
+}
+
+

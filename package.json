@@ -1,0 +1,27 @@
+{
+  "name": "arcadegame",
+  "version": "1.0.0",
+  "description": "Arcade Game with canvas and OOP javascript",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisaljanjua/arcade-game.git"
+  },
+  "keywords": [
+    "javascript",
+    "oop"
+  ],
+  "author": "faisal janjua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faisaljanjua/arcade-game/issues"
+  },
+  "homepage": "https://github.com/faisaljanjua/arcade-game#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  }
+}
